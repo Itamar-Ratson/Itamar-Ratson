@@ -1,6 +1,6 @@
 # Hi, I'm Itamar Ratson
 
-**DevOps / Site Reliability Engineer (SRE)**
+**DevOps / SRE / Platform Engineer**
 
 DevOps Engineer with hands-on experience designing and deploying cloud infrastructure from scratch. Built foundational tools from the ground up — including a container runtime, container orchestrator, and HTTPS server — to deepen understanding of the systems I work with. Passionate about zero-trust architecture, automation, and delivering resilient systems.
 
